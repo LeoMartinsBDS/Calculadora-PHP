@@ -1,2 +1,2 @@
-# Calculadora-PHP
-Calculadora com backend em PHP
+Calculadora desenvolvida para fins acadêmicos. A calculadora foi desenvolvida com PHP e realiza as 4 operações matemáticas básicas.
+
